@@ -1,7 +1,7 @@
 # leetcodetest
 my leetcode practise 
 
-now just round1 from the easy to hard
+now just round one from the easy to hard
 
 I plan to write 3 rounds the second round will seprate different tags
 
