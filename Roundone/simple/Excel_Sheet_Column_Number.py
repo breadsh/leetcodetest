@@ -11,6 +11,6 @@ class Solution(object):
         return ret
 
 if __name__=='__main__':
-    st='AJ'
+    st='AAZ'
     s=Solution()
     print s.titleToNumber(st)
